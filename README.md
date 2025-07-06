@@ -1,40 +1,145 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Motivational Quote Generator
+
+A beautiful web application that generates motivational quotes based on user-selected topics. Built with Next.js, TypeScript, and ShadCN UI.
+
+## Features
+
+- **Topic-based Quote Generation**: Enter any topic and get 3 relevant motivational quotes
+- **Beautiful UI**: Modern, responsive design with ShadCN UI components
+- **Local Data**: All quotes stored locally in JSON format
+- **Error Handling**: Helpful error messages and suggestions
+- **Loading States**: Smooth user experience with loading indicators
+- **Mobile Responsive**: Works perfectly on all device sizes
+
+## Available Topics
+
+The app includes quotes for the following topics:
+- Success
+- Dreams
+- Life
+- Happiness
+- Motivation
+- Education
+- Love
+- Friendship
+- Health
+
+## Tech Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **UI Components**: ShadCN UI
+- **Deployment**: Vercel
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
+- Node.js 18+ 
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Daniyal69n/Nexium_Daniyal_Assign1.git
+cd Nexium_Daniyal_Assign1/my-app
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Learn More
+## Usage
 
-To learn more about Next.js, take a look at the following resources:
+1. Enter a topic in the input field (e.g., "success", "life", "happiness")
+2. Click "Get Quotes" button
+3. View 3 randomly selected motivational quotes related to your topic
+4. Try different topics to discover more quotes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+my-app/
+├── app/
+│   ├── page.tsx          # Main application page
+│   ├── layout.tsx        # Root layout
+│   └── globals.css       # Global styles
+├── components/
+│   └── ui/               # ShadCN UI components
+│       ├── button.tsx
+│       ├── input.tsx
+│       └── card.tsx
+├── data/
+│   └── quotes.json       # Quote database
+└── public/               # Static assets
+```
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is deployed on Vercel. The live version can be accessed at:
+[Your Vercel URL will be here after deployment]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Nexium_Daniyal_Assign1
->>>>>>> 6850ba2b77ef11d50ba707b6682c1301c26b5024
+### Deploy to Vercel
+
+1. Install Vercel CLI:
+```bash
+npm i -g vercel
+```
+
+2. Deploy:
+```bash
+vercel
+```
+
+## Development
+
+### Adding New Quotes
+
+To add new quotes, edit `data/quotes.json` and follow this format:
+
+```json
+{
+  "id": 28,
+  "text": "Your quote text here",
+  "author": "Author Name",
+  "topic": "topic-name"
+}
+```
+
+### Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Author
+
+**Daniyal Ahmed Gul**
+- GitHub: [@Daniyal69n](https://github.com/Daniyal69n)
+- Email: dmn7146@gmail.com
+
+---
+
+Made with ❤️ using Next.js and ShadCN UI

@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "topic": "success"
+  },
+  {
+    "id": 2,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "topic": "success"
+  },
+  {
+    "id": 3,
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "topic": "success"
+  },
+  {
+    "id": 4,
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "topic": "dreams"
+  },
+  {
+    "id": 5,
+    "text": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "topic": "dreams"
+  },
+  {
+    "id": 6,
+    "text": "All our dreams can come true, if we have the courage to pursue them.",
+    "author": "Walt Disney",
+    "topic": "dreams"
+  },
+  {
+    "id": 7,
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "topic": "life"
+  },
+  {
+    "id": 8,
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "topic": "life"
+  },
+  {
+    "id": 9,
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "topic": "life"
+  },
+  {
+    "id": 10,
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "topic": "happiness"
+  },
+  {
+    "id": 11,
+    "text": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "topic": "happiness"
+  },
+  {
+    "id": 12,
+    "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi",
+    "topic": "happiness"
+  },
+  {
+    "id": 13,
+    "text": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "topic": "motivation"
+  },
+  {
+    "id": 14,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "topic": "motivation"
+  },
+  {
+    "id": 15,
+    "text": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "topic": "motivation"
+  },
+  {
+    "id": 16,
+    "text": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela",
+    "topic": "education"
+  },
+  {
+    "id": 17,
+    "text": "The beautiful thing about learning is that nobody can take it away from you.",
+    "author": "B.B. King",
+    "topic": "education"
+  },
+  {
+    "id": 18,
+    "text": "Education is not preparation for life; education is life itself.",
+    "author": "John Dewey",
+    "topic": "education"
+  },
+  {
+    "id": 19,
+    "text": "Love is composed of a single soul inhabiting two bodies.",
+    "author": "Aristotle",
+    "topic": "love"
+  },
+  {
+    "id": 20,
+    "text": "The best thing to hold onto in life is each other.",
+    "author": "Audrey Hepburn",
+    "topic": "love"
+  },
+  {
+    "id": 21,
+    "text": "Love is the greatest refreshment in life.",
+    "author": "Pablo Picasso",
+    "topic": "love"
+  },
+  {
+    "id": 22,
+    "text": "The only way to have a friend is to be one.",
+    "author": "Ralph Waldo Emerson",
+    "topic": "friendship"
+  },
+  {
+    "id": 23,
+    "text": "A real friend is one who walks in when the rest of the world walks out.",
+    "author": "Walter Winchell",
+    "topic": "friendship"
+  },
+  {
+    "id": 24,
+    "text": "Friendship is born at that moment when one person says to another, 'What! You too?'",
+    "author": "C.S. Lewis",
+    "topic": "friendship"
+  },
+  {
+    "id": 25,
+    "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+    "author": "Buddha",
+    "topic": "health"
+  },
+  {
+    "id": 26,
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "topic": "health"
+  },
+  {
+    "id": 27,
+    "text": "The first wealth is health.",
+    "author": "Ralph Waldo Emerson",
+    "topic": "health"
+  }
+] 
